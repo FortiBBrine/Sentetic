@@ -1,0 +1,7 @@
+name: Sentetic
+main: Sentetic.main.Sentetic
+version: 2021.20.06
+author: IJustFortiLive
+commands:
+  sentetic:
+    usage: /sentetic reload

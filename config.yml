@@ -1,0 +1,11 @@
+block: STONE
+items:
+  - gold_ingot
+  - iron_ingot
+x1: 0
+x2: 0
+y1: 0
+y2: 500
+z1: 500
+z2: 500
+msg: "You message %item%"
